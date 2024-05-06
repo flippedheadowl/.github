@@ -1,5 +1,5 @@
 ## Hello
-but no worries, we don't even know what's happening here :3
+but no worries, we don't even know what's happening here :D
 
 <!--
 
